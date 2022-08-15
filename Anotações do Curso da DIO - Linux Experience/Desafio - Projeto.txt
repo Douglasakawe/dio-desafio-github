@@ -1,3 +1,13 @@
 Introdução ao Git e ao Github
 
 Projeto Executado!
+
+'Git Bash é um terminal extendido para otimizar o uso do Git.' 
+
+Comandos do GIT bash utilizados;
+
+git clone (Clonar Repositorio)
+git status (Verificar status)
+git add . (Adicionar todos arquivos para o controle de versão)
+git commit -m "(-m) para adicionar mensagens" ()
+git push origin main (Subir os commits para o "github")
